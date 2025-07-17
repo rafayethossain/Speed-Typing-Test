@@ -1,19 +1,5 @@
 # Typing Master - Speed Tester
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
-
-## Table of Contents
-
-*   [Overview](#overview)
-*   [Demo](#demo)
-*   [Features](#features)
-*   [How to Use](#how-to-use)
-*   [Technologies Used](#technologies-used)
-*   [SEO Improvements](#seo-improvements)
-*   [Contributing](#contributing)
-*   [License](#license)
-*   [Credits](#credits)
-
 ## Overview
 
 This is a web-based typing speed and accuracy tester built with vanilla HTML, CSS, and JavaScript built with gemini cli for fun.  It provides real-time feedback, calculates WPM and accuracy, and allows users to select from various text passages.
@@ -58,12 +44,6 @@ View demo from: https://rafayethossain.github.io/Speed-Typing-Test/
 *   CSS3
 *   JavaScript (ES6+)
 
-## SEO Improvements
-
-To enhance search engine visibility and performance, the following SEO optimizations have been implemented:
-
-*   **Optimized Meta Tags:** The `<title>`, `<meta name="description">`, and `<meta name="keywords">` tags in `index.html` have been updated with relevant keywords and compelling descriptions to improve search engine ranking and click-through rates.
-*   **Minified Assets:** Both `style.css` and `script.js` have been minified to reduce file sizes, leading to faster page load times and improved user experience, which positively impacts SEO.
 
 ---
 
